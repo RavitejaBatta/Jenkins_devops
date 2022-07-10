@@ -6,7 +6,7 @@
 pipeline {
 	agent any
 	//agent { docker { image 'maven:3.6.3' } }
-	git url: "https://github.com/RavitejaBatta/Jenkins_Repo.git", branch: "main", credentialsId:'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'
+	//git url: "https://github.com/RavitejaBatta/Jenkins_Repo.git", branch: "main", credentialsId:'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'
 	environment{
 		dockerHome = tool 'myDocker'
 		mavenHome = tool 'myMaven'

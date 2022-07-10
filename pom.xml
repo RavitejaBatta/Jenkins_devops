@@ -35,7 +35,7 @@
                 <configuration>
                     <excludes>
                         <!--<exclude>**/*ApplicationTests.java</exclude> -->
-                        <exclude>/Users/ravbatta/Desktop/git/Jenkins_Repo/src/test/java/*/*/*/UnitTest/*Test.java</exclude>
+                        <exclude>/Users/ravbatta/Documents/git/Jenkins_devops/src/test/java/*/*/*/UnitTest/*Test.java</exclude>
                     </excludes>
                     <!--<properties> -->
                     <!-- add SonarQube's JaCoCo listener to enable -->
